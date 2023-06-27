@@ -6,3 +6,5 @@
 *.exe
 *.obj
 *.pdb
+
+*ignore*
