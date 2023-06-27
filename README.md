@@ -1,4 +1,4 @@
-Compile and Run
+# Compile and Run
 
 1. Install visual studio
 
