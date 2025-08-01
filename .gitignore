@@ -1,9 +1,18 @@
+# Emacs
+*~*
+*.#*
+
 *.out
 *.o
 *.DS_Store
 *.dSYM
 
+# Raygui
+*.props 
 
+
+# Random cpp gitignore follows
+# -----------------------------
 
 # Prerequisites
 *.d
